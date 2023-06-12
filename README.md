@@ -1,2 +1,2 @@
-# 👉 Start Here
+# Getting Started
 

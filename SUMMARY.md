@@ -1,12 +1,13 @@
 # Table of contents
 
-* [👉 Start Here](README.md)
-  * [Getting Started](start-here/README.md)
-  * [4 Year Timeline](start-here/4-year-timeline/README.md)
-    * [First Year](start-here/4-year-timeline/first-year.md)
-    * [Second Year](start-here/4-year-timeline/second-year.md)
-    * [Third Year](start-here/4-year-timeline/third-year.md)
-    * [Fourth Year](start-here/4-year-timeline/fourth-year.md)
+## 👉 Start here
+
+* [Getting Started](README.md)
+* [4 Year Timeline](start-here/4-year-timeline/README.md)
+  * [First Year](start-here/4-year-timeline/first-year.md)
+  * [Second Year](start-here/4-year-timeline/second-year.md)
+  * [Third Year](start-here/4-year-timeline/third-year.md)
+  * [Fourth Year](start-here/4-year-timeline/fourth-year.md)
 
 ## 🔎 General
 

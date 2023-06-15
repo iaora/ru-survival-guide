@@ -11,8 +11,12 @@
 
 ## 🔎 General
 
+* [Why Computer Science?](general/why-computer-science.md)
+* [Prospective Students](general/prospective-students.md)
 * [Majoring and Minoring in CS](general/majoring-and-minoring-in-cs/README.md)
   * [Declaring the major](general/majoring-and-minoring-in-cs/declaring-the-major.md)
+  * [Major - B.A. Degree](general/majoring-and-minoring-in-cs/major-b.a.-degree.md)
+  * [Major - B.S. Degree](general/majoring-and-minoring-in-cs/major-b.s.-degree.md)
   * [BA vs BS](general/majoring-and-minoring-in-cs/ba-vs-bs.md)
   * [Minor in CS](general/majoring-and-minoring-in-cs/minor-in-cs.md)
 * [Example 4 year schedule](general/example-4-year-schedule.md)
